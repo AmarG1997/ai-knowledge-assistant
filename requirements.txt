@@ -1,0 +1,5 @@
+# AI Knowledge Assistant — dependencies
+# We add to this file as we build each part.
+
+# Part 1: reading PDF files
+pypdf==6.14.2
